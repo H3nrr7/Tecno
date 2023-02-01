@@ -1,0 +1,50 @@
+E:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\bin\Debug\Anthony Abal.exe.config
+E:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\obj\Debug\Anthony Abal.exe
+E:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\obj\Debug\Anthony Abal.xml
+E:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\obj\Debug\Anthony Abal.pdb
+E:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\bin\Debug\Anthony Abal.exe
+E:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\bin\Debug\Anthony Abal.pdb
+E:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\bin\Debug\Anthony Abal.xml
+E:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\obj\Debug\Henrry Caal.vbprojResolveAssemblyReference.cache
+E:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\obj\Debug\Anthony_Abal.administrador.resources
+E:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\obj\Debug\Anthony_Abal.cliente.resources
+E:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\obj\Debug\Anthony_Abal.Form1.resources
+E:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\obj\Debug\Anthony_Abal.Resources.resources
+E:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\obj\Debug\Anthony_Abal.secretario.resources
+E:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\obj\Debug\Henrry Caal.vbproj.GenerateResource.Cache
+G:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\bin\Debug\Anthony Abal.exe.config
+G:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\obj\Debug\Anthony Abal.exe
+G:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\obj\Debug\Anthony Abal.xml
+G:\Archivos\trabajito en grupo\Henrry Caal\Anthony Abal\obj\Debug\Anthony Abal.pdb
+G:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\bin\Debug\Anthony Abal.exe.config
+G:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\obj\Debug\Anthony Abal.exe
+G:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\obj\Debug\Anthony Abal.xml
+G:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\obj\Debug\Anthony Abal.pdb
+G:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\bin\Debug\Anthony Abal.exe
+G:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\bin\Debug\Anthony Abal.pdb
+G:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\bin\Debug\Anthony Abal.xml
+G:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\obj\Debug\Henrry Caal.vbprojResolveAssemblyReference.cache
+G:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\obj\Debug\Anthony_Abal.administrador.resources
+G:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\obj\Debug\Anthony_Abal.cliente.resources
+G:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\obj\Debug\Anthony_Abal.Form1.resources
+G:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\obj\Debug\Anthony_Abal.Resources.resources
+G:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\obj\Debug\Anthony_Abal.secretario.resources
+G:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\obj\Debug\Henrry Caal.vbproj.GenerateResource.Cache
+E:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\bin\Debug\Anthony Abal.exe.config
+E:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\obj\Debug\Anthony Abal.exe
+E:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\obj\Debug\Anthony Abal.xml
+E:\Archivos\trabajito en grupo - copia\Henrry Caal\Anthony Abal\obj\Debug\Anthony Abal.pdb
+E:\Archivos\Henrry Caal Tecno GA1\Henrry Caal\Anthony Abal\bin\Debug\Anthony Abal.exe.config
+E:\Archivos\Henrry Caal Tecno GA1\Henrry Caal\Anthony Abal\obj\Debug\Anthony Abal.exe
+E:\Archivos\Henrry Caal Tecno GA1\Henrry Caal\Anthony Abal\obj\Debug\Anthony Abal.xml
+E:\Archivos\Henrry Caal Tecno GA1\Henrry Caal\Anthony Abal\obj\Debug\Anthony Abal.pdb
+E:\Archivos\Henrry Caal Tecno GA1\Henrry Caal\Anthony Abal\bin\Debug\Anthony Abal.exe
+E:\Archivos\Henrry Caal Tecno GA1\Henrry Caal\Anthony Abal\bin\Debug\Anthony Abal.pdb
+E:\Archivos\Henrry Caal Tecno GA1\Henrry Caal\Anthony Abal\bin\Debug\Anthony Abal.xml
+E:\Archivos\Henrry Caal Tecno GA1\Henrry Caal\Anthony Abal\obj\Debug\Henrry Caal.vbprojResolveAssemblyReference.cache
+E:\Archivos\Henrry Caal Tecno GA1\Henrry Caal\Anthony Abal\obj\Debug\Anthony_Abal.administrador.resources
+E:\Archivos\Henrry Caal Tecno GA1\Henrry Caal\Anthony Abal\obj\Debug\Anthony_Abal.cliente.resources
+E:\Archivos\Henrry Caal Tecno GA1\Henrry Caal\Anthony Abal\obj\Debug\Anthony_Abal.Form1.resources
+E:\Archivos\Henrry Caal Tecno GA1\Henrry Caal\Anthony Abal\obj\Debug\Anthony_Abal.Resources.resources
+E:\Archivos\Henrry Caal Tecno GA1\Henrry Caal\Anthony Abal\obj\Debug\Anthony_Abal.secretario.resources
+E:\Archivos\Henrry Caal Tecno GA1\Henrry Caal\Anthony Abal\obj\Debug\Henrry Caal.vbproj.GenerateResource.Cache

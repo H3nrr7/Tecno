@@ -1,0 +1,35 @@
+C:\Users\PC01LAB4\Desktop\Anthony Abal\Anthony Abal\bin\Debug\Anthony Abal.exe.config
+C:\Users\PC01LAB4\Desktop\Anthony Abal\Anthony Abal\bin\Debug\Anthony Abal.exe
+C:\Users\PC01LAB4\Desktop\Anthony Abal\Anthony Abal\bin\Debug\Anthony Abal.pdb
+C:\Users\PC01LAB4\Desktop\Anthony Abal\Anthony Abal\bin\Debug\Anthony Abal.xml
+C:\Users\PC01LAB4\Desktop\Anthony Abal\Anthony Abal\obj\Debug\Anthony Abal.vbprojResolveAssemblyReference.cache
+C:\Users\PC01LAB4\Desktop\Anthony Abal\Anthony Abal\obj\Debug\Anthony_Abal.administrador.resources
+C:\Users\PC01LAB4\Desktop\Anthony Abal\Anthony Abal\obj\Debug\Anthony_Abal.Form1.resources
+C:\Users\PC01LAB4\Desktop\Anthony Abal\Anthony Abal\obj\Debug\Anthony_Abal.Resources.resources
+C:\Users\PC01LAB4\Desktop\Anthony Abal\Anthony Abal\obj\Debug\Anthony Abal.vbproj.GenerateResource.Cache
+C:\Users\PC01LAB4\Desktop\Anthony Abal\Anthony Abal\obj\Debug\Anthony Abal.exe
+C:\Users\PC01LAB4\Desktop\Anthony Abal\Anthony Abal\obj\Debug\Anthony Abal.xml
+C:\Users\PC01LAB4\Desktop\Anthony Abal\Anthony Abal\obj\Debug\Anthony Abal.pdb
+C:\Users\PC01LAB4\Desktop\Anthony Abal\Anthony Abal\obj\Debug\Anthony_Abal.secretario.resources
+C:\Users\PC01LAB4\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\bin\Debug\Anthony Abal.exe.config
+C:\Users\PC01LAB4\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\obj\Debug\Anthony Abal.exe
+C:\Users\PC01LAB4\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\obj\Debug\Anthony Abal.xml
+C:\Users\PC01LAB4\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\obj\Debug\Anthony Abal.pdb
+C:\Users\INFORMATICA\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\bin\Debug\Anthony Abal.exe.config
+C:\Users\INFORMATICA\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\obj\Debug\Anthony Abal.exe
+C:\Users\INFORMATICA\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\obj\Debug\Anthony Abal.xml
+C:\Users\INFORMATICA\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\obj\Debug\Anthony Abal.pdb
+C:\Users\INFORMATICA\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\bin\Debug\Anthony Abal.exe
+C:\Users\INFORMATICA\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\bin\Debug\Anthony Abal.pdb
+C:\Users\INFORMATICA\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\bin\Debug\Anthony Abal.xml
+C:\Users\INFORMATICA\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\obj\Debug\Anthony Abal.vbprojResolveAssemblyReference.cache
+C:\Users\INFORMATICA\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\obj\Debug\Anthony_Abal.administrador.resources
+C:\Users\INFORMATICA\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\obj\Debug\Anthony_Abal.cliente.resources
+C:\Users\INFORMATICA\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\obj\Debug\Anthony_Abal.Form1.resources
+C:\Users\INFORMATICA\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\obj\Debug\Anthony_Abal.Resources.resources
+C:\Users\INFORMATICA\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\obj\Debug\Anthony_Abal.secretario.resources
+C:\Users\INFORMATICA\Desktop\trabajito en grupo\Anthony Abal\Anthony Abal\obj\Debug\Anthony Abal.vbproj.GenerateResource.Cache
+E:\Archivos\trabajito en grupo\Anthony Abal\Anthony Abal\bin\Debug\Anthony Abal.exe.config
+E:\Archivos\trabajito en grupo\Anthony Abal\Anthony Abal\obj\Debug\Anthony Abal.exe
+E:\Archivos\trabajito en grupo\Anthony Abal\Anthony Abal\obj\Debug\Anthony Abal.xml
+E:\Archivos\trabajito en grupo\Anthony Abal\Anthony Abal\obj\Debug\Anthony Abal.pdb
